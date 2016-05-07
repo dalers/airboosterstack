@@ -2,7 +2,7 @@ airboosterstack
 ============
 ***airboosterstack*** is the demo application provided by Anaren for the Anaren/TI 430Boost-CC110L BoosterPack. This repo was created for exploration, production use is not anticipated.
 
-Anaren recommends new projects start with the [Anaren Base Link driver library](https://github.com/AnarenAIR/BaseLink) and the [TI SimpliciTI networking stack](http://www.ti.com/corp/docs/landing/simpliciTI/?keyMatch=simpliciTI&tisearch=Search-EN-Everything) (also see the [SimpliciTI wiki page](http://processors.wiki.ti.com/index.php/SimpliciTI) and the [SimpliciTI FAQ](http://processors.wiki.ti.com/index.php/SimpliciTI_FAQ).
+Anaren recommends new projects start with the [Anaren Base Link driver library](https://github.com/AnarenAIR/BaseLink) and the [TI SimpliciTI networking stack](http://www.ti.com/corp/docs/landing/simpliciTI/?keyMatch=simpliciTI&tisearch=Search-EN-Everything) (also see the [SimpliciTI wiki page](http://processors.wiki.ti.com/index.php/SimpliciTI) and the [SimpliciTI FAQ](http://processors.wiki.ti.com/index.php/SimpliciTI_FAQ)).
 
 License
 -----
